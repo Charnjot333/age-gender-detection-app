@@ -8,7 +8,7 @@ This project uses Deep Learning (VGG16) to predict age and gender from images.
 - Multi-output CNN model
 
 ## Live Demo
-👉 [https://charanjot-age-gender-detector.hf.space/?__theme=system&deep_link=zRijOSFQEFA]
+👉 https://charanjot-age-gender-detector.hf.space/?__theme=system&deep_link=zRijOSFQEFA
 
 ## Model Access
 The trained model is hosted and used in the Hugging Face Space for this project.
